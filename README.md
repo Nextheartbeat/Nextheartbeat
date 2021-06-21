@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nextheartbeat
 - 👀 I’m interested in Python Web
 - 🌱 I’m currently learning FastAPI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jiwei_it@163.com
 
 <!---
